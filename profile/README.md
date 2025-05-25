@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is an placeholder organization for [@mikerenfro](https://github.com/mikerenfro/)
+This is a placeholder organization for [@mikerenfro](https://github.com/mikerenfro/)
